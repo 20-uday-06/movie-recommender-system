@@ -23,14 +23,13 @@ This project implements a movie recommender system using content-based filtering
    ```bash
    git clone https://github.com/your-username/movie-recommender-system.git
    cd movie-recommender-system
-   
    ```
 
 2. Install the required dependencies:
    ```bash
    pip install -r requirements.txt
    ```
-
+```
 ## Usage
 
 1. Import the necessary libraries and load the dataset:
@@ -84,5 +83,3 @@ This project implements a movie recommender system using content-based filtering
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-```
