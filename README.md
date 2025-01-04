@@ -15,7 +15,7 @@ This project implements a movie recommender system using content-based filtering
 - Pandas
 - Scikit-learn
 - NumPy
-- MovieLens Dataset (or any other movie dataset)
+- TMDB Database
 
 ## Installation
 
@@ -23,6 +23,7 @@ This project implements a movie recommender system using content-based filtering
    ```bash
    git clone https://github.com/your-username/movie-recommender-system.git
    cd movie-recommender-system
+   
    ```
 
 2. Install the required dependencies:
@@ -85,5 +86,3 @@ This project implements a movie recommender system using content-based filtering
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ```
-
-Feel free to adjust any specific details like the dataset name, required libraries, or features to match your project!
